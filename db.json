@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "Name": "jarina",
+      "Last": "kolma",
+      "Email": "kolki@gmail.com",
+      "Password": "kolki123"
+    },
+    {
+      "id": 3,
+      "Name": "jon",
+      "Last": "gargy",
+      "Email": "jon@gmail.com",
+      "Password": "jon1122"
+    },
+    {
+      "id": 4,
+      "Name": "son",
+      "Last": "gass",
+      "Email": "son@gmail.com",
+      "Password": "gargy22"
+    },
+    {
+      "id": 5,
+      "Name": "jonson",
+      "Last": "gargy",
+      "Email": "jonson",
+      "Password": "gargy"
+    },
+    {
+      "Name": "amit",
+      "Email": " ankuryadav@gmail.com",
+      "Password": "amityadav",
+      "id": 9
+    },
+    {
+      "Name": "assss",
+      "Email": " ass@gmail.com",
+      "Password": "12345",
+      "id": 10
+    }
+  ]
+}
